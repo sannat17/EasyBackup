@@ -2,6 +2,6 @@
 <easy_backup.py>.
 """
 
-backup_to = "aa"
-backup_from = "bb"
+backup_to = ""
+backup_from = ""
 exclude = [] # Write all file paths to exlude in this list
