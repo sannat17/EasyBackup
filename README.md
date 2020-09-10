@@ -6,7 +6,7 @@ I made it so that I can run manual backups of important files and folders on my 
 **I am open to any help/ suggestions to make this script more efficient, add more features and learn more!**
 
 **Click** [here](#how-to-help) **to scroll down and see how you can contribute/ help.**
-## How to use:
+## How to use
  - Add `easy_backup.py` to a directory.
  - Edit the `backup_to` and `backup_from` directories in `input.py`.
  - Run `easy_backup.py` and follow the directions in the console window.
