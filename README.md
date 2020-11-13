@@ -8,7 +8,7 @@ I made it so that I can run manual backups of important files and folders on my 
 **Click** [here](#how-to-help) **to scroll down and see how you can contribute/ help.**
 ## How to use
  - Add `easy_backup.py` to a directory.
- - Edit the `backup_to` and `backup_from` directories in `input.py`.
+ - Edit the `backup_to` and `backup_from` directories in `from_and_to.py`.
  - Run `easy_backup.py` and follow the directions in the console window.
  - Once execution is complete, check `backup_log.txt` to see the history of backups including which directories were involved and how much time the backup took.
 
@@ -39,7 +39,7 @@ If anybody is even reading this and has suggestions regarding the features/ issu
  - Failure management
  - GUI
    - Use Python's `tkinter` library or find some other toolkit.
-   - Manage multiple files/ folders to backup along with locations, all from a singled, unified GUI.
+   - Manage multiple files/ folders to backup along with locations, all from a single, unified GUI.
    - Could add scheduled tasks (and instructions on how to set it up)
  - Replicate this using other programming languages.
  - Try different methods than the one I used to see what works best.
