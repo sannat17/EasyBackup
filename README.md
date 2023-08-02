@@ -1,3 +1,6 @@
+# Disclaimer
+I made this little personal project while learning how to program during my first semester at the University of Toronto (CSC108H1: Introduction to Computer Programming) to apply my learnings to solve a real world problem I faced: Creating local backups (perhaps to a directory synced with a cloud provider) of files and directories with granular control over what I want backed up.
+
 # Welcome to EasyBackup!
 This is a little project I started to make a custom backup script (using Python) for myself to use on any file/ folder I want.
 
